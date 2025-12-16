@@ -1,0 +1,13 @@
+.container{
+    padding: 60px;   
+}
+.child{
+    display: inline-block;
+    width: 300px;
+    margin: 20px;
+    height: 500px;
+    text-align: center;
+}
+img{
+    width: 100%;
+}
