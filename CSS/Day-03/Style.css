@@ -1,0 +1,23 @@
+#d1{
+    border: 2px solid green;
+    height: 450px;
+    width: 1000px;
+    padding: 50px;
+    margin: 50px;
+}
+.child{
+    display: inline-block;
+    border: 2px solid red;
+    height: 100%;
+    width: 400px;
+    margin: 20px;
+    
+}
+
+img{
+    height: 100%;
+    width: 100%;
+}
+p{
+    text-align: left;
+}

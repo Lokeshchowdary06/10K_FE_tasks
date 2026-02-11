@@ -1,0 +1,28 @@
+.con{
+    top: 100px;
+    left: 100px;
+    border: 2px solid ;
+    height: 200px;
+    width:200px;
+    border-radius: 50%;
+    background-color: aliceblue;
+    position: relative;
+}
+.hemi{
+    border: 2px solid;
+    background-color: orange;
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    position: absolute;
+    top: 50px;
+    left: 50px;
+}
+/* .square
+{
+    position: relative;
+    border: 2px solid ;
+    background-color: green;
+    height: 300px;
+    width: 400px;
+} */

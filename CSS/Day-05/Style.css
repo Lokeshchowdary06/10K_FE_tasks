@@ -1,0 +1,50 @@
+.con{
+    position: relative;
+    margin: 250px;
+    width: 1000px;
+    text-align: center;
+}
+.con>h3{
+    padding: 10px;
+    display: inline-block;
+    background-color: black;
+    color: white;  
+}
+.child{
+    display: inline-block;
+    background-color: #000000;
+    color: white;
+}
+.con>img{
+    height: 500px;
+    width: 100%;
+    display: block;
+}
+#para2{
+    display: inline-block;
+    background-color: black;
+    color: white;
+}
+.con>p{
+    text-align: left;
+}
+#head1{
+    display: inline-block;
+}
+#para1 span{
+    background-color: #000000;
+    color: white;
+}
+input{
+    height: 50px;
+    width: 100%;
+}
+button{
+    position: absolute;
+    left: 0px;
+    background-color: black;
+    color: white;
+}
+img{
+    width: 100%;
+}
